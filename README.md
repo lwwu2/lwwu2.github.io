@@ -4,7 +4,7 @@ I am a CSE PhD student at UCSD, advised by Professor [Ravi Ramamoorthi](https://
 
 My research lies in the area of computer graphics and 3D vision. Especially, I am interests in neural rendering, inverse rendering, (neural) appearance modeling, and 3D reconstruction.
 
-[Email](liw026@ucsd.edu) / [Github](https://github.com/lwwu2) / [Scholar](https://scholar.google.com/citations?user=_7OXdUcAAAAJ&hl=en)
+[Email](liw026@ucsd.edu) / [Github](https://github.com/lwwu2) / [Scholar](https://scholar.google.com/citations?user=_7OXdUcAAAAJ&hl=en) / [CV](pdfs/CV.pdf)
 
 
 
