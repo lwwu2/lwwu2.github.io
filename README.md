@@ -13,17 +13,15 @@ My research lies in the area of computer graphics and 3D vision. Especially, I a
 <img align="left" width="160" src="images/25reparam.png"><b><a href="https://github.com/lwwu2/reparam25"><font size="4">Neural BRDF Importance Sampling by Reparameterization</font></a></b><br>**Liwen Wu**, [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://zexiangxu.github.io/), [Hao Tan](https://www.cs.unc.edu/~airsplay/), [Kai Zhang](https://kai-46.github.io/website/), [Fujun Luan](https://luanfujun.com/), [Haolin Lu](https://suikasibyl.github.io/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<br>SIGGRAPH 2025
 
 \
-
+\
 <img align="left" width="160" src="images/25glint.png"><b><a href="https://github.com/lwwu2/glint24"><font size="4">Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps</font></a></b><br>**Liwen Wu**, [Fujun Luan](https://luanfujun.com/), [Miloš Hašan](http://miloshasan.net/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<br>SIGGRAPH 2025
 
 \
-
 \
-
+\
 <img align="left" width="160" src="images/24bsdfdiff.png"><b><a href="https://fzy28.github.io/BSDF_diffusion_sampling_web/"><font size="4">BSDF importance sampling using a diffusion model</font></a></b><br>[Ziyang Fu](https://fzy28.github.io/), [Yash Belhe](https://yashbelhe.github.io/), [Haolin Lu](https://suikasibyl.github.io/), **Liwen Wu**, [Bing Xu](https://bingxu.tech/), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/)<br>SIGGRAPH Asia 2024
 
 \
-
 \
 <img align="left" width="160" src="images/24nde.jpg"><b><a href="https://lwwu2.github.io/nde/"><font size="4">Neural directional encoding for efficient and accurate view-dependent appearance modeling</font></a></b><br>**Liwen Wu**, [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://zexiangxu.github.io/), [Fujun Luan](https://luanfujun.com/), [Kai Zhang](https://kai-46.github.io/website/), [Iliyan Georgiev](https://iliyan.com/), [Kalyan Sunkavalli](http://www.kalyans.org/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<br>CVPR 2024 (Spotlight) (Final score 5,5,5)
 
@@ -39,5 +37,4 @@ Chin Ming Ryan Wong, Yi Xu, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/),
 
 \
 \
-
 <img align="left" width="160" src="images/22diver.png"><b><a href="https://lwwu2.github.io/diver/"><font size="4">DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering</font></a></b><br>**Liwen Wu**, [Jae Yong Lee](https://jyl.kr/), [Anand Bhattad](https://anandbhattad.github.io/), [Yuxiong Wang](https://yxw.web.illinois.edu/), [David A. Forsyth](http://luthuli.cs.uiuc.edu/~daf/)<br>CVPR 2022 (Oral) **(Best paper finalist)**
