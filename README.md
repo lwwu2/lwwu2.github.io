@@ -18,7 +18,6 @@ My research lies in the area of computer graphics and 3D vision. Especially, I a
 
 \
 \
-\
 <img align="left" width="160" src="images/24bsdfdiff.png"><b><a href="https://fzy28.github.io/BSDF_diffusion_sampling_web/"><font size="4">BSDF importance sampling using a diffusion model</font></a></b><br>[Ziyang Fu](https://fzy28.github.io/), [Yash Belhe](https://yashbelhe.github.io/), [Haolin Lu](https://suikasibyl.github.io/), **Liwen Wu**, [Bing Xu](https://bingxu.tech/), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/)<br>SIGGRAPH Asia 2024
 
 \
