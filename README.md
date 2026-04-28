@@ -4,36 +4,113 @@ I am a CSE PhD student at UCSD, advised by Professor [Ravi Ramamoorthi](https://
 
 My research lies in the area of computer graphics and 3D vision. Especially, I am interests in neural rendering, inverse rendering, (neural) appearance modeling, and 3D reconstruction.
 
-[Email](liw026@ucsd.edu) / [Github](https://github.com/lwwu2) / [Scholar](https://scholar.google.com/citations?user=_7OXdUcAAAAJ&hl=en) / [CV](pdfs/CV.pdf)
+<nav class="link-buttons" markdown="1">
+[Email](mailto:liw026@ucsd.edu){:.button-link}
+[Github](https://github.com/lwwu2){:.button-link}
+[Scholar](https://scholar.google.com/citations?user=_7OXdUcAAAAJ&hl=en){:.button-link}
+[CV](pdfs/CV.pdf){:.button-link}
+</nav>
 
+# Publications
 
+<!--
+Each publication is written in this strict order:
+preview image, title, authors, venue, additional links.
+The formatter script below turns these Markdown blocks into the final layout.
+-->
 
-## Publications
+<div data-publications markdown="1">
 
-<img align="left" width="160" src="images/25reparam.png"><b><a href="https://github.com/lwwu2/reparam25"><font size="4">Neural BRDF Importance Sampling by Reparameterization</font></a></b><br>**Liwen Wu**, [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://zexiangxu.github.io/), [Hao Tan](https://www.cs.unc.edu/~airsplay/), [Kai Zhang](https://kai-46.github.io/website/), [Fujun Luan](https://luanfujun.com/), [Haolin Lu](https://suikasibyl.github.io/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<br>SIGGRAPH 2025
+![Preview image for Neural BRDF Importance Sampling by Reparameterization](images/25reparam.png)
 
-\
-\
-<img align="left" width="160" src="images/25glint.png"><b><a href="https://github.com/lwwu2/glint24"><font size="4">Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps</font></a></b><br>**Liwen Wu**, [Fujun Luan](https://luanfujun.com/), [Miloš Hašan](http://miloshasan.net/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<br>SIGGRAPH 2025
+### Neural BRDF Importance Sampling by Reparameterization
 
-\
-\
-<img align="left" width="160" src="images/24bsdfdiff.png"><b><a href="https://fzy28.github.io/BSDF_diffusion_sampling_web/"><font size="4">BSDF importance sampling using a diffusion model</font></a></b><br>[Ziyang Fu](https://fzy28.github.io/), [Yash Belhe](https://yashbelhe.github.io/), [Haolin Lu](https://suikasibyl.github.io/), **Liwen Wu**, [Bing Xu](https://bingxu.tech/), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/)<br>SIGGRAPH Asia 2024
+**Liwen Wu**, [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://zexiangxu.github.io/), [Hao Tan](https://www.cs.unc.edu/~airsplay/), [Kai Zhang](https://kai-46.github.io/website/), [Fujun Luan](https://luanfujun.com/), [Haolin Lu](https://suikasibyl.github.io/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
 
-\
-\
-<img align="left" width="160" src="images/24nde.jpg"><b><a href="https://lwwu2.github.io/nde/"><font size="4">Neural directional encoding for efficient and accurate view-dependent appearance modeling</font></a></b><br>**Liwen Wu**, [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://zexiangxu.github.io/), [Fujun Luan](https://luanfujun.com/), [Kai Zhang](https://kai-46.github.io/website/), [Iliyan Georgiev](https://iliyan.com/), [Kalyan Sunkavalli](http://www.kalyans.org/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<br>CVPR 2024 (Spotlight) (Final score 5,5,5)
+SIGGRAPH 2025
 
-\
-<img align="left" width="160" src="images/23openillumination.png"><b><a href="https://oppo-us-research.github.io/OpenIllumination/"><font size="4">OpenIllumination: A Multi-Illumination Dataset for Inverse Rendering Evaluation on Real Objects</font></a></b><br>[Isabella Liu](https://www.liuisabella.com/)<sup>\*</sup>, [Linghao Chen](https://ootts.github.io/)<sup>\*</sup>, [Ziyang Fu](https://fzy28.github.io/), **Liwen Wu**, [Haian Jin](https://haian-jin.github.io/), [Zhong Li](https://sites.google.com/site/lizhong19900216),
-Chin Ming Ryan Wong, Yi Xu, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014), [Hao Su](http://ai.ucsd.edu/~haosu/)<br>NeurIPS 2023
+[Paper](https://arxiv.org/pdf/2505.08998)
+[Code](https://github.com/lwwu2/reparam25)
 
-\
-<img align="left" width="160" src="images/23fipt.png"><b><a href="https://jerrypiglet.github.io/fipt-ucsd/"><font size="4">Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation</font></a></b><br>**Liwen Wu<sup>\*</sup>**, [Rui Zhu<sup>\*</sup>](https://jerrypiglet.github.io/), [Mustafa B. Yaldiz](https://myaldiz.info/), [Yinhao Zhu](https://yinhaoz.github.io/), [Hong Cai](https://scholar.google.com/citations?user=9y3Kd3cAAAAJ&hl=en), [Janarbek Matai](https://janarbek.github.io/), [Fatih Porikli](https://www.porikli.com/), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/), [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<br>ICCV 2023 (Oral)
+![Preview image for Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps](images/25glint.png)
 
-\
-<img align="left" width="160" src="images/23neusample.jpg"><b><a href="https://cseweb.ucsd.edu/~viscomp/projects/neusample/"><font size="4">Neusample: Importance Sampling for Neural Materials</font></a></b><br>[Bing Xu](https://bingxu.tech/), **Liwen Wu**, [Miloš Hašan](http://miloshasan.net/), [Fujun Luan](https://luanfujun.com/), [Iliyan Georgiev](http://iliyan.com/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)<br>SIGGRAPH 2023
+### Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps
 
-\
-\
-<img align="left" width="160" src="images/22diver.png"><b><a href="https://lwwu2.github.io/diver/"><font size="4">DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering</font></a></b><br>**Liwen Wu**, [Jae Yong Lee](https://jyl.kr/), [Anand Bhattad](https://anandbhattad.github.io/), [Yuxiong Wang](https://yxw.web.illinois.edu/), [David A. Forsyth](http://luthuli.cs.uiuc.edu/~daf/)<br>CVPR 2022 (Oral) **(Best paper finalist)**
+**Liwen Wu**, [Fujun Luan](https://luanfujun.com/), [Miloš Hašan](http://miloshasan.net/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+
+SIGGRAPH 2025
+
+[Paper](https://arxiv.org/pdf/2505.08985)
+[Code](https://github.com/lwwu2/glint24)
+[Video](https://cseweb.ucsd.edu/~ravir/liwenglint_sig.mp4)
+
+![Preview image for BSDF importance sampling using a diffusion model](images/24bsdfdiff.png)
+
+### [BSDF importance sampling using a diffusion model](https://fzy28.github.io/BSDF_diffusion_sampling_web/)
+
+[Ziyang Fu](https://fzy28.github.io/), [Yash Belhe](https://yashbelhe.github.io/), [Haolin Lu](https://suikasibyl.github.io/), **Liwen Wu**, [Bing Xu](https://bingxu.tech/), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/)
+
+SIGGRAPH Asia 2024
+
+[Paper](https://fzy28.github.io/BSDF_diffusion_sampling_web/main.pdf)
+[Code](https://github.com/fzy28/BSDF_diffusion_sampling)
+[Video](https://drive.google.com/file/d/1wW8FWgaFEi3_meGfGYkTVSm7gNqkLWVG/view?usp=sharing)
+
+![Preview image for Neural directional encoding for efficient and accurate view-dependent appearance modeling](images/24nde.jpg)
+
+### [Neural directional encoding for efficient and accurate view-dependent appearance modeling](https://lwwu2.github.io/nde/)
+
+**Liwen Wu**, [Sai Bi](https://sai-bi.github.io/), [Zexiang Xu](https://zexiangxu.github.io/), [Fujun Luan](https://luanfujun.com/), [Kai Zhang](https://kai-46.github.io/website/), [Iliyan Georgiev](https://iliyan.com/), [Kalyan Sunkavalli](http://www.kalyans.org/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+
+CVPR 2024 (Spotlight)
+
+[Paper](https://arxiv.org/pdf/2405.14847)
+[Code](https://github.com/lwwu2/nde)
+
+![Preview image for OpenIllumination](images/23openillumination.png)
+
+### [OpenIllumination: A Multi-Illumination Dataset for Inverse Rendering Evaluation on Real Objects](https://oppo-us-research.github.io/OpenIllumination/)
+
+[Isabella Liu](https://www.liuisabella.com/)<sup>\*</sup>, [Linghao Chen](https://ootts.github.io/)<sup>\*</sup>, [Ziyang Fu](https://fzy28.github.io/), **Liwen Wu**, [Haian Jin](https://haian-jin.github.io/), [Zhong Li](https://sites.google.com/site/lizhong19900216), Chin Ming Ryan Wong, Yi Xu, [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014), [Hao Su](http://ai.ucsd.edu/~haosu/)
+
+NeurIPS 2023
+
+[Paper](https://arxiv.org/pdf/2309.07921)
+[Code](https://github.com/oppo-us-research/OpenIlluminationCapture)
+
+![Preview image for Factorized Inverse Path Tracing](images/23fipt.png)
+
+### [Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation](https://jerrypiglet.github.io/fipt-ucsd/)
+
+**Liwen Wu<sup>\*</sup>**, [Rui Zhu<sup>\*</sup>](https://jerrypiglet.github.io/), [Mustafa B. Yaldiz](https://myaldiz.info/), [Yinhao Zhu](https://yinhaoz.github.io/), [Hong Cai](https://scholar.google.com/citations?user=9y3Kd3cAAAAJ&hl=en), [Janarbek Matai](https://janarbek.github.io/), [Fatih Porikli](https://www.porikli.com/), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/), [Manmohan Chandraker](https://cseweb.ucsd.edu/~mkchandraker/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+
+ICCV 2023 (Oral)
+
+[Paper](https://arxiv.org/pdf/2304.05669)
+[Code](https://github.com/lwwu2/fipt)
+
+![Preview image for Neusample](images/23neusample.jpg)
+
+### [Neusample: Importance Sampling for Neural Materials](https://cseweb.ucsd.edu/~viscomp/projects/neusample/)
+
+[Bing Xu](https://bingxu.tech/), **Liwen Wu**, [Miloš Hašan](http://miloshasan.net/), [Fujun Luan](https://luanfujun.com/), [Iliyan Georgiev](http://iliyan.com/), [Zexiang Xu](https://cseweb.ucsd.edu/~zex014/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+
+SIGGRAPH 2023
+
+[Paper](https://cseweb.ucsd.edu/~viscomp/projects/neusample/assets/NeuSample.pdf)
+[Code](https://github.com/bing-xu-graphics/neusample_release)
+
+![Preview image for DIVeR](images/22diver.png)
+
+### [DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://lwwu2.github.io/diver/)
+
+**Liwen Wu**, [Jae Yong Lee](https://jyl.kr/), [Anand Bhattad](https://anandbhattad.github.io/), [Yuxiong Wang](https://yxw.web.illinois.edu/), [David A. Forsyth](http://luthuli.cs.uiuc.edu/~daf/)
+
+CVPR 2022 (Oral) **(Best paper finalist)**
+
+[Paper](https://arxiv.org/pdf/2111.10427)
+[Code](https://github.com/lwwu2/diver)
+
+</div>
+
+<script src="{{ '/assets/js/publications.js' | relative_url }}"></script>
