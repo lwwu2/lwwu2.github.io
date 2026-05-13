@@ -21,6 +21,30 @@ The formatter script below turns these Markdown blocks into the final layout.
 
 <div data-publications markdown="1">
 
+![Previe image for 8DNA](images/268dna.png)
+
+### 8DNA: 8D Neural Asset Light Transport by Distribution Learning
+
+**Liwen Wu**, [Haolin Lu](https://suikasibyl.github.io/), [Bing Xu](https://bingxu.tech/), [Miloš Hašan](http://miloshasan.net/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+
+SIGGRAPH 2026
+
+[Paper](https://arxiv.org/pdf/2604.25129)
+[Code](https://github.com/lwwu2/8dna26)
+
+
+![Preview image for NQR](images/26nqr.webp)
+
+### [Neural Quadrature Rule and Autoregressive Adaptive Sampling](https://suikasibyl.github.io/nqr/#/)
+
+[Haolin Lu](https://suikasibyl.github.io/), **Liwen Wu**, [Zimo Wang](https://zeamoxwang.github.io/homepage/), [Tzu-Mao Li](https://cseweb.ucsd.edu/~tzli/), [Ravi Ramamoorthi](https://cseweb.ucsd.edu/~ravir/)
+
+ACM TOG (SIGGRAPH) 2026
+
+[Paper](https://suikasibyl.github.io/files/nqr/paper.pdf)
+[Code](https://github.com/SuikaSibyl/nqr/)
+
+
 ![Preview image for Neural BRDF Importance Sampling by Reparameterization](images/25reparam.png)
 
 ### Neural BRDF Importance Sampling by Reparameterization
@@ -31,6 +55,7 @@ SIGGRAPH 2025
 
 [Paper](https://arxiv.org/pdf/2505.08998)
 [Code](https://github.com/lwwu2/reparam25)
+
 
 ![Preview image for Position-Normal Manifold for Efficient Glint Rendering on High-Resolution Normal Maps](images/25glint.png)
 
@@ -44,6 +69,7 @@ SIGGRAPH 2025
 [Code](https://github.com/lwwu2/glint24)
 [Video](https://cseweb.ucsd.edu/~ravir/liwenglint_sig.mp4)
 
+
 ![Preview image for BSDF importance sampling using a diffusion model](images/24bsdfdiff.png)
 
 ### [BSDF importance sampling using a diffusion model](https://fzy28.github.io/BSDF_diffusion_sampling_web/)
@@ -56,6 +82,7 @@ SIGGRAPH Asia 2024
 [Code](https://github.com/fzy28/BSDF_diffusion_sampling)
 [Video](https://drive.google.com/file/d/1wW8FWgaFEi3_meGfGYkTVSm7gNqkLWVG/view?usp=sharing)
 
+
 ![Preview image for Neural directional encoding for efficient and accurate view-dependent appearance modeling](images/24nde.jpg)
 
 ### [Neural directional encoding for efficient and accurate view-dependent appearance modeling](https://lwwu2.github.io/nde/)
@@ -66,6 +93,7 @@ CVPR 2024 (Spotlight)
 
 [Paper](https://arxiv.org/pdf/2405.14847)
 [Code](https://github.com/lwwu2/nde)
+
 
 ![Preview image for OpenIllumination](images/23openillumination.png)
 
@@ -78,6 +106,7 @@ NeurIPS 2023
 [Paper](https://arxiv.org/pdf/2309.07921)
 [Code](https://github.com/oppo-us-research/OpenIlluminationCapture)
 
+
 ![Preview image for Factorized Inverse Path Tracing](images/23fipt.png)
 
 ### [Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation](https://jerrypiglet.github.io/fipt-ucsd/)
@@ -89,6 +118,7 @@ ICCV 2023 (Oral)
 [Paper](https://arxiv.org/pdf/2304.05669)
 [Code](https://github.com/lwwu2/fipt)
 
+
 ![Preview image for Neusample](images/23neusample.jpg)
 
 ### [Neusample: Importance Sampling for Neural Materials](https://cseweb.ucsd.edu/~viscomp/projects/neusample/)
@@ -99,6 +129,7 @@ SIGGRAPH 2023
 
 [Paper](https://cseweb.ucsd.edu/~viscomp/projects/neusample/assets/NeuSample.pdf)
 [Code](https://github.com/bing-xu-graphics/neusample_release)
+
 
 ![Preview image for DIVeR](images/22diver.png)
 
